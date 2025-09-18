@@ -1,0 +1,7 @@
+Student Name,student_email,gender,attendance,current_test_score,current_assignment_score,previous_test_score,previous_assignment_score,fees,Average Study Hour
+George Hill,george.hill@example.com,Male,91,85,88,82,80,1,3
+Hannah Lee,hannah.lee@example.com,Female,99,40,45,42,48,1,6
+Ivan Petrov,ivan.petrov@example.com,Male,76,78,80,65,70,1,4
+Jasmine Kaur,jasmine.kaur@example.com,Female,60,62,65,95,92,0,1
+Leo Martinez,leo.martinez@example.com,Male,96,94,95,90,91,1,5
+Mia Rodriguez,mia.rodriguez@example.com,Female,55,48,50,52,55,1,1

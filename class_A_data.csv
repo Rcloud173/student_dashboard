@@ -1,0 +1,7 @@
+Student Name,student_email,gender,attendance,current_test_score,current_assignment_score,previous_test_score,previous_assignment_score,fees,Average Study Hour
+Aisha Khan,aisha.khan@example.com,Female,98,92,94,88,90,1,5
+Ben Carter,ben.carter@example.com,Male,72,55,60,85,82,0,2
+Carlos Diaz,carlos.diaz@example.com,Male,40,25,30,50,45,0,0
+Diana Evans,diana.evans@example.com,Female,95,88,90,91,89,1,4
+Ethan Williams,ethan.williams@example.com,Male,65,70,72,68,65,1,3
+Fatima Ahmed,fatima.ahmed@example.com,Female,88,82,85,75,78,1,4
